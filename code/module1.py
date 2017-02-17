@@ -2,7 +2,7 @@
 ## Enjoy the color of blue while you're here ( 'w')b Like this please!
 
 # PYTHON2 PRINT
-print 'Hello world!'
+print 'Hello Everyone~!'
 
 # PYTHON3 PRINT
-print('Hello World!')
+print('How is your day?')
