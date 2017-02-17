@@ -1,8 +1,3 @@
-## Welcome to my world
-## Enjoy the color of blue while you're here ( 'w')b Like this please!
-
-# PYTHON2 PRINT
-print 'Hello Everyone~!'
-
-# PYTHON3 PRINT
-print('How is your day?')
+The first level we use -,+,*, or / for anwsering each of the question
+one of them is making a Boolean Expression for remainer of 4
+Anwser: ( 8 / 2 )
